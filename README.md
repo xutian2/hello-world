@@ -1,2 +1,2 @@
-# hello-world
-Test1
+def test:
+  print('It is a test')
